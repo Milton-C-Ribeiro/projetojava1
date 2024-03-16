@@ -1,5 +1,5 @@
 package cursojava.executavel;
-
+	/*dddd*/
 public class PrimeiraClasseJava {
 	/*main é um metodo auto executavel em java, seu atalho é main + CTRL e SPACE juntos*/
 	public static void main(String[] args) {
