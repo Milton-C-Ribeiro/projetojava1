@@ -9,7 +9,7 @@ public class Pessoa {
 			// TODO Auto-generated constructor stub
 		}private int idade;
 		
-		
+		private Date  dataCadastro
 
 		public int getIdade() {
 			return idade;
