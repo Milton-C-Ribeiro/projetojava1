@@ -8,6 +8,8 @@ public class Pessoa {
 		public Pessoa() {
 			// TODO Auto-generated constructor stub
 		}private int idade;
+		 
+		private int Contato
 		
 		private Date  dataCadastro
 
